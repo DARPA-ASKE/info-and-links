@@ -23,6 +23,6 @@ Arizona: https://github.com/ml4ai/automates
 Azimov: https://github.com/Asimovio/darpa-aske-public
 
 
-#Program resources
+# Program resources
 
 ...
