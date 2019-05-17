@@ -1,4 +1,4 @@
-# info-and-links
+# ASKE repositories
 
 Wisconsin: https://github.com/UW-COSMOS/project-docs
 
@@ -6,9 +6,9 @@ Gallup: https://github.com/GallupGovt/multivac
 
 Pitt: https://github.com/momacs/pram
 
-GE1: https://github.com/GEGlobalResearch/DARPA-ASKE-TA1/wiki
+GE1: https://github.com/GEGlobalResearch/DARPA-ASKE-TA1
 
-GE2: https://github.com/GEGlobalResearch/DARPA-ASKE-TA2/wiki
+GE2: https://github.com/GEGlobalResearch/DARPA-ASKE-TA2
 
 Siemens: https://github.com/deepcurator/DCC 
 
@@ -19,4 +19,6 @@ Galois: https://github.com/GaloisInc/AMIDOL
 GTRI: https://github.com/jpfairbanks/SemanticModels.jl
 
 Arizona: https://github.com/ml4ai/automates
+
+Azimov: https://github.com/Asimovio/darpa-aske-public
 
