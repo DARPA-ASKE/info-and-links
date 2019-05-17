@@ -1,6 +1,6 @@
 # ASKE repositories
 
-Wisconsin: https://github.com/UW-COSMOS/project-docs
+Wisconsin: https://github.com/UW-COSMOS
 
 Gallup: https://github.com/GallupGovt/multivac
 
