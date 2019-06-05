@@ -20,7 +20,7 @@ GTRI: https://github.com/jpfairbanks/SemanticModels.jl
 
 Arizona: https://github.com/ml4ai/automates
 
-Azimov: https://github.com/Asimovio/darpa-aske-public
+Asimov: https://github.com/Asimovio/darpa-aske-public
 
 
 # Program resources
