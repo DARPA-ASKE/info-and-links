@@ -16,7 +16,7 @@ HMS: https://github.com/indralab/emmaa and https://emmaa.readthedocs.io
 
 Galois: https://github.com/GaloisInc/AMIDOL and https://github.com/GaloisInc/ASKE-E
 
-GTRI: https://github.com/jpfairbanks/SemanticModels.jl
+GTRI/UFlorida: https://github.com/jpfairbanks/SemanticModels.jl and https://github.com/AlgebraicJulia
 
 Arizona: https://github.com/ml4ai/automates
 
